@@ -1,17 +1,12 @@
-![](https://github.com/uhooi/uhooi/blob/master/docs/theuhooi_logo_avenir_alpha.png)
+[![andoshin11's github stats](https://github-readme-stats.vercel.app/api?username=andoshin11&show_icons=true)](https://github.com/andoshin11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andoshin11)](https://github.com/andoshin11)
 
-[![uhooi's github stats](https://github-readme-stats.vercel.app/api?username=uhooi&show_icons=true)](https://github.com/uhooi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uhooi)](https://github.com/uhooi)
-
-[![GitHub](https://img.shields.io/github/followers/uhooi?style=social)](https://github.com/uhooi)
-[![Twitter](https://img.shields.io/twitter/follow/the_uhooi?style=social)](https://twitter.com/the_uhooi)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/uhooi/posts.svg)](http://qiita.com/uhooi)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/uhooi/contributions.svg)](http://qiita.com/uhooi)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/uhooi/followers.svg)](http://qiita.com/uhooi)
+[![GitHub](https://img.shields.io/github/followers/andoshin11?style=social)](https://github.com/andoshin11)
+[![Twitter](https://img.shields.io/twitter/follow/andoshin11?style=social)](https://img.shields.io/twitter/follow/andoshin11?style=social)
                 
 
 <!--
-**uhooi/uhooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**andoshin11/andoshin11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
